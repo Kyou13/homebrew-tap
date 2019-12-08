@@ -5,7 +5,7 @@ class Cmdsay < Formula
   desc ""
   homepage ""
   url "https://github.com/Kyou13/cmdsay/archive/v0.0.1.tar.gz"
-  sha256 "f01a29f84166a87760fc5efa102b7e01db1254444bc3f9510e2dbc27614ae436"
+  sha256 "8bae1d9307c65990da1493e5a3db31dad55aa67166f4219187ff9fc8ca39f6df"
 
   depends_on "cowsay"
   depends_on "shc"
